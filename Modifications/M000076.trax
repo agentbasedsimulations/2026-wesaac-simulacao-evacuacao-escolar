@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1403" vissimVersion="2026.00-06 [304779]">
+	<areas>
+		<modified>
+			<area no="393">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="-7.8700910562525435" y="31.249091324007146"/>
+								<point x="-7.2218063557624586" y="27.575860192277123"/>
+								<point x="-7.0428683065044941" y="27.607440780459399"/>
+								<point x="-7.691153006994579" y="31.280671912189423"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</area>
+		</modified>
+	</areas>
+	<simulation>
+		<modified useMaxSimSpeed="true"/>
+	</simulation>
+</network>

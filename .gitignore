@@ -1,0 +1,18 @@
+# Ignora a pasta Scenarios inteira por padrão
+Scenarios/*
+
+# Permite apenas as pastas dos cenários que você quer mostrar
+!Scenarios/S000001/
+!Scenarios/S000021/
+!Scenarios/S000056/
+
+# MAS bloqueia os resultados pesados e logs dentro de qualquer cenário
+Scenarios/*/*.results/
+Scenarios/**/*.db
+Scenarios/**/*.err
+
+# Arquivos temporários gerais
+*.tmp
+*.bak
+*.log
+*~

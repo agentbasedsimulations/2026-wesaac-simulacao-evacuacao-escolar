@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1403" vissimVersion="2026.00-06 [304779]">
+	<pedestrianInputs>
+		<deleted>
+			<pedestrianInput no="1"/>
+			<pedestrianInput no="30"/>
+			<pedestrianInput no="31"/>
+			<pedestrianInput no="37"/>
+			<pedestrianInput no="38"/>
+			<pedestrianInput no="43"/>
+			<pedestrianInput no="44"/>
+			<pedestrianInput no="45"/>
+			<pedestrianInput no="46"/>
+		</deleted>
+		<modified>
+			<pedestrianInput no="28">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="828000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="33">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="42" timeInt="5 0" volume="828000"/>
+						<timeIntervalPedVolume pedComp="42" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="39">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="42" timeInt="5 0" volume="792000"/>
+						<timeIntervalPedVolume pedComp="42" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="41">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="42" timeInt="5 0" volume="792000"/>
+						<timeIntervalPedVolume pedComp="42" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="47">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="144000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="48">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="144000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="50">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="64000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="52">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume timeInt="5 0" volume="180000"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+</network>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1403" vissimVersion="2026.00-06 [304779]">
+	<pedestrianInputs>
+		<modified>
+			<pedestrianInput no="1">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="43" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="43" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="27">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="28">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="43" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="43" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="29">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="30">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="43" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="43" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="31">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="33">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="34">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="37">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="38">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="39">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="40">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="41">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="42">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="43">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="44">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="45">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="39" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="46">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="47">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="48">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="49">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="50">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="51">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="52">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+			<pedestrianInput no="53">
+				<timeIntPedVols>
+					<modified>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 0"/>
+						<timeIntervalPedVolume pedComp="47" timeInt="5 100"/>
+					</modified>
+				</timeIntPedVols>
+			</pedestrianInput>
+		</modified>
+	</pedestrianInputs>
+</network>

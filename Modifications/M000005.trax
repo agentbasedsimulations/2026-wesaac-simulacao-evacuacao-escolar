@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1403" vissimVersion="2026.00-06 [304779]">
+	<obstacles>
+		<added>
+			<obstacle displayType="51" height="1" level="2" name="" no="2070" zOffsetB="0">
+				<geometry>
+					<points>
+						<point x="77.02215601216038" y="71.058115311251242"/>
+						<point x="77.272622470037263" y="68.973105346412098"/>
+						<point x="77.421551753240067" y="68.990995807688989"/>
+						<point x="77.171085295363213" y="71.076005772528163"/>
+					</points>
+				</geometry>
+				<label showLabel="true">
+					<labPosRel x="0.00000000000000710543" y="0.00000000000001421085"/>
+				</label>
+			</obstacle>
+		</added>
+		<modified>
+			<obstacle no="1370">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="2.4635652697855832" y="34.513095682980783"/>
+								<point x="2.4896357001002016" y="34.365378613340184"/>
+								<point x="8.5164921414373644" y="35.429052170176469"/>
+								<point x="8.4904217111227496" y="35.576769239817082"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="1570">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="-7.2066946451642293" y="27.578493181359907"/>
+								<point x="-7.0937227804675542" y="26.938385879583894"/>
+								<point x="-6.9460057108269195" y="26.964456309898498"/>
+								<point x="-7.0589775755235946" y="27.604563611674497"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+			<obstacle no="2035">
+				<geometry>
+					<modified>
+						<points>
+							<overwritten>
+								<point x="-8.0751474626750817" y="32.5025635979989"/>
+								<point x="-7.8544178193446523" y="31.251892408375024"/>
+								<point x="-7.7067007497040461" y="31.277962838689636"/>
+								<point x="-7.9274303930344541" y="32.528634028313519"/>
+							</overwritten>
+						</points>
+					</modified>
+				</geometry>
+			</obstacle>
+		</modified>
+	</obstacles>
+	<pedestrianRoutingDecisionsStatic>
+		<modified>
+			<pedestrianRoutingDecisionStatic no="121">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="123">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="124">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="125">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="126">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="146">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="148">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="164">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="165">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="166">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="167">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="168">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="172">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="173">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="174">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="175">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="176">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="177">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="178">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="184">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="185">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="186">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+			<pedestrianRoutingDecisionStatic no="187">
+				<pedRoutSta>
+					<modified>
+						<pedestrianRouteStatic no="1" relFlow="11 0:0"/>
+						<pedestrianRouteStatic no="2" relFlow=""/>
+						<pedestrianRouteStatic no="3" relFlow="11 0:0"/>
+					</modified>
+				</pedRoutSta>
+			</pedestrianRoutingDecisionStatic>
+		</modified>
+	</pedestrianRoutingDecisionsStatic>
+	<sections>
+		<deleted>
+			<section no="10"/>
+			<section no="12"/>
+		</deleted>
+	</sections>
+</network>

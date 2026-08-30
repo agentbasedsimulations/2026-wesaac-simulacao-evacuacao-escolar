@@ -1,0 +1,10 @@
+# Ignora apenas arquivos temporários e resultados pesados dentro dos cenários
+Scenarios/*/*.results/
+Scenarios/**/*.db
+Scenarios/**/*.err
+
+# Arquivos temporários gerais
+*.tmp
+*.bak
+*.log
+*~

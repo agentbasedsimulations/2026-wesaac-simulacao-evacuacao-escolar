@@ -55,6 +55,7 @@ com base no **Social Force Model (SFM)**.
 
 ## Estrutura do repositório
 
+```
 WalmorRibeiro-Main/
 ├── Modelagem - ECIM EEB Walmor Ribeiro.inpx      # Projeto principal — abrir este arquivo no Vissim
 ├── Modelagem - ECIM EEB Walmor Ribeiro.layx      # Layout de visualização
@@ -69,6 +70,7 @@ WalmorRibeiro-Main/
 │
 └── Scenarios/                    # Arquivos essenciais e arquivos de projeto salvos dos cenários selecionados (S000001, S000021 e S000056)
     └── S000001 / S000021 / S000056/  # Pastas contendo os arquivos .pp de cada variação dos cenários liberados
+```
 
 ---
 

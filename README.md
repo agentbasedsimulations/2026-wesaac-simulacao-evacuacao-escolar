@@ -68,8 +68,8 @@ WalmorRibeiro-Main/
 │
 ├── Modifications/                # Histórico de modificações do projeto (M000001–M000079.trax)
 │
-└── Scenarios/                    # Arquivos essenciais e arquivos de projeto salvos dos cenários selecionados (S000001, S000021 e S000056)
-    └── S000001 / S000021 / S000056/  # Pastas contendo os arquivos .pp de cada variação dos cenários liberados
+└── Scenarios/                    # Arquivos essenciais e arquivos de projeto salvos dos cenários
+    └── S000001 ao S000072  # Pastas contendo os arquivos .pp de cada variação dos cenários 
 ```
 
 ---

@@ -2,11 +2,28 @@
 
 **Análise de Evacuação de Emergência em Edificação Escolar via Simulação Baseada em Agentes**
 
+[![DOI](https://img.shields.io/badge/DOI-10.5753%2Fwesaac.2026.31819-blue)](https://doi.org/10.5753/wesaac.2026.31819)
+[![WESAAC 2026](https://img.shields.io/badge/WESAAC-2026-green)](https://sol.sbc.org.br/index.php/wesaac/article/view/45237)
+
+---
+
+## Publicação
+
+Este repositório acompanha o artigo publicado no **WESAAC 2026**:
+
+> **Emergency Evacuation Analysis in a School Building via Agent-Based Simulations**
+> Kaique de Oliveira, Guilherme Rode, Fernando Santos — UDESC
+>
+> 📄 Artigo: https://sol.sbc.org.br/index.php/wesaac/article/view/45237
+> 🔗 DOI: [10.5753/wesaac.2026.31819](https://doi.org/10.5753/wesaac.2026.31819)
+
+O artigo traz a descrição completa da metodologia, dos cenários simulados e dos resultados de Tempo Total de Evacuação (TTE).
+
 ---
 
 ## Sobre o projeto
 
-Este repositório contém os arquivos do projeto de simulação desenvolvido no **PTV Vissim** e no módulo de dinâmica de pedestres **PTV Viswalk**, utilizados no artigo submetido ao WESAAC 2026.
+Este repositório contém os arquivos do projeto de simulação desenvolvido no **PTV Vissim** e no módulo de dinâmica de pedestres **PTV Viswalk**, utilizados no artigo.
 
 O trabalho modela a evacuação de emergência da ECIM EEB Walmor Ribeiro (Ibirama, SC), avaliando:
 
@@ -69,14 +86,33 @@ WalmorRibeiro-Main/
 ├── Modifications/                # Histórico de modificações do projeto (M000001–M000079.trax)
 │
 └── Scenarios/                    # Arquivos essenciais e arquivos de projeto salvos dos cenários
-    └── S000001 ao S000072  # Pastas contendo os arquivos .pp de cada variação dos cenários 
+    └── S000001 ao S000072  # Pastas contendo os arquivos .pp de cada variação dos cenários
 ```
 
 ---
 
-## Sobre o trabalho
+## Como citar
 
-O artigo completo, com a descrição da metodologia, dos cenários simulados e dos resultados de Tempo Total de Evacuação (TTE), está disponível em `[link do artigo, quando publicado]`.
+Se este trabalho ou os arquivos de simulação forem úteis para você, por favor cite o artigo:
+
+**Texto:**
+
+OLIVEIRA, Kaique de; RODE, Guilherme; SANTOS, Fernando. Emergency Evacuation Analysis in a School Building via Agent-Based Simulations. In: WORKSHOP-ESCOLA DE SISTEMAS DE AGENTES, SEUS AMBIENTES E APLICAÇÕES (WESAAC), 2026. Porto Alegre: Sociedade Brasileira de Computação, 2026. DOI: https://doi.org/10.5753/wesaac.2026.31819.
+
+**BibTeX:**
+
+```bibtex
+@inproceedings{oliveira2026evacuation,
+  author    = {Kaique de Oliveira and Guilherme Rode and Fernando Santos},
+  title     = {Emergency Evacuation Analysis in a School Building via Agent-Based Simulations},
+  booktitle = {Anais do Workshop-Escola de Sistemas de Agentes, seus Ambientes e Aplicações (WESAAC)},
+  year      = {2026},
+  publisher = {Sociedade Brasileira de Computação},
+  address   = {Porto Alegre, RS, Brasil},
+  doi       = {10.5753/wesaac.2026.31819},
+  url       = {https://sol.sbc.org.br/index.php/wesaac/article/view/45237}
+}
+```
 
 ---
 
